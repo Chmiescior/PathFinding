@@ -1,6 +1,9 @@
 # PathFinding
 
 CONTROLS:
+
+
+
 	SPACE - remove all edges
 	CAPSLOCK - block all vertices (apart from source and destination)
 	TAB - block unblocked vertices, unblock blocked vertices
