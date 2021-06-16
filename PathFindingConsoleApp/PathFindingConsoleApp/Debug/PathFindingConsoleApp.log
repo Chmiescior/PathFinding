@@ -1,0 +1,3 @@
+﻿  PathFindingConsoleApp.cpp
+C:\Users\Maciej\Desktop\studia\4 semestr\C++\projekt\PathFindingConsoleApp\PathFindingConsoleApp\PathFindingConsoleApp\PathFindingConsoleApp.cpp(82): warning C4715: 'PathFinding::heuristic': not all control paths return a value
+  PathFindingConsoleApp.vcxproj -> C:\Users\Maciej\Desktop\studia\4 semestr\C++\projekt\PathFindingConsoleApp\PathFindingConsoleApp\Debug\PathFindingConsoleApp.exe
